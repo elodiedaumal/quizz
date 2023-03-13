@@ -11,6 +11,7 @@ function App() {
     questions,
     questionIndex,
     correctAnswer,
+
     isModalOpen,
     clickNextQuestion,
     handleAnswer,
